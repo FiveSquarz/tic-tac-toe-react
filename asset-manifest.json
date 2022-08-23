@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/testappppp/static/css/main.22941023.css",
-    "main.js": "/testappppp/static/js/main.c739efda.js",
-    "index.html": "/testappppp/index.html",
-    "main.22941023.css.map": "/testappppp/static/css/main.22941023.css.map",
-    "main.c739efda.js.map": "/testappppp/static/js/main.c739efda.js.map"
+    "main.css": "/tic-tac-toe-react/static/css/main.22941023.css",
+    "main.js": "/tic-tac-toe-react/static/js/main.c739efda.js",
+    "index.html": "/tic-tac-toe-react/index.html",
+    "main.22941023.css.map": "/tic-tac-toe-react/static/css/main.22941023.css.map",
+    "main.c739efda.js.map": "/tic-tac-toe-react/static/js/main.c739efda.js.map"
   },
   "entrypoints": [
     "static/css/main.22941023.css",
